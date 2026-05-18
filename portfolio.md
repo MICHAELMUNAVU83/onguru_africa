@@ -108,7 +108,7 @@ Possible bullets:
 
 - Brand positioning
 - Communications strategy
-- Executive messaging
+- Brand Strategy Training
 
 ### Advocacy & Campaigns
 
